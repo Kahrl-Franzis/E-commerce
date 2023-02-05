@@ -1,0 +1,35 @@
+@font-face {
+	src: url(Fonts/Arrancar.ttf);
+	font-family: Arrancar;
+}
+
+*{
+	color: white;
+	font-family: Papyrus, fantasy;
+	margin: 0px;
+	padding: 0px;
+
+}
+
+body{
+	background-image: url(https://data.whicdn.com/images/312934705/original.gif);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 80vh;
+	background-attachment: fixed;
+
+}
+.title-title{
+	font-family: Arrancar;
+}
+
+
+
+.card-deck{
+	margin: 10px
+}
+.icon{
+	height: 28px;
+	
+}
+
